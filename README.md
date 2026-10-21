@@ -4,10 +4,6 @@
 
 ### 🚀 Aspiring Developer & Tech Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alyssamaetdeguzman&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 </div>
 
 ---
