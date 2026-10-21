@@ -2,7 +2,7 @@
 
 # Hi there, I'm Alyssa Mae T. De Guzman! 👋
 
-### 🚀 Aspiring Data Analyst & Web Developer
+### 🚀 Aspiring Data Enthusiast & Web Developer
 
 </div>
 
@@ -10,8 +10,8 @@
 
 ### 💻 About Me
 - 🎓 Student at the **Polytechnic University of the Philippines**.
-- 💡 Passionate about turning data into insights and building clean, functional web applications.
-- 🌱 Continuously expanding my skill set in web development, data analytics, and software engineering.
+- 💡 Passionate about turning data into actionable insights and developing clean, functional web applications.
+- 🌱 Continuously expanding my skill set in data analysis, web development, and software engineering.
 
 ---
 
