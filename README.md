@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Alyssa Mae T. De Guzman!
+# Alyssa Mae T. De Guzman
 
 ### Aspiring Data Enthusiast & Web Developer
 
