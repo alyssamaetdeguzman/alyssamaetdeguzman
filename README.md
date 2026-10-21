@@ -10,7 +10,7 @@
 
 ### 💻 About Me
 - 🎓 Student at the **Polytechnic University of the Philippines**.
-- 💡 Passionate about turning data into insights and building clean, functional applications.
+- 💡 Passionate about turning data into insights and building clean, functional web applications.
 - 🌱 Continuously expanding my skill set in web development, data analytics, and software engineering.
 
 ---
@@ -22,7 +22,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Querying** | Python, R, JavaScript, SQL, HTML5, CSS3 |
-| **Stacks & Databases** | LAMP Stack, MySQL |
+| **Web Stack & Database** | Python (Flask/Django), Apache, MySQL |
 | **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets |
 | **Tools & Version Control** | Git, GitHub, Railway, Visual Studio Code, Jupyter Notebook |
 
