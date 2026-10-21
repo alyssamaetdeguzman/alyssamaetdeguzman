@@ -38,7 +38,7 @@
 ---
 
 ### Featured Projects
-*(Check out my 5 pinned public repositories right below this profile section to explore my work!)*
+*(Check out my pinned public repositories right below this profile section to explore my work!)*
 
 ---
 
