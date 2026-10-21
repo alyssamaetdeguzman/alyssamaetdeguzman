@@ -29,9 +29,9 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Querying** | Python, R, JavaScript, SQL, HTML5, CSS3 |
-| **Web Stack & Database** | Python (Flask/Django), Apache, MySQL |
+| **Web Stack & Database** |LAMP Stack (Apache, MySQL, PHP), Tailwind CSS, Chart.js, Flask/Django |
 | **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets |
-| **Tools & Version Control** | Git, GitHub, Visual Studio Code, Jupyter Notebook, Railway, Figma |
+| **Tools & Version Control** | Git, GitHub, Visual Studio Code, Jupyter Notebook, XAMPP, Railway, Figma |
 
 </div>
 
