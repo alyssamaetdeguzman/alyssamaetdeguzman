@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alyssamaetdeguzman/alyssamaetdeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Alyssa Mae! 👋
 
-Here are some ideas to get you started:
+### 🚀 Aspiring Developer & Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alyssamaetdeguzman&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### 💻 About Me
+* 🎓 Student at the **Polytechnic University of the Philippines**.
+* 💡 Passionate about building clean, functional applications and continuous learning.
+* 🌱 Currently expanding my skill set in web development and software engineering.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, Python, HTML5, CSS3 |
+| **Frameworks & Databases** | MERN Stack, Node.js, Express, MongoDB |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+
+</div>
+
+---
+
+### 📌 Featured Projects
+*(Check out my 3–5 pinned public repositories right below this profile section to explore my work!)*
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
