@@ -9,7 +9,7 @@
 ---
 
 ### 💻 About Me
-- 🎓 Student at the **Polytechnic University of the Philippines**.
+- 🎓 4th year BSIT student at the **Polytechnic University of the Philippines**.
 - 💡 Passionate about turning data into actionable insights and developing clean, functional web applications.
 - 🌱 Continuously expanding my skill set in data analysis, web development, and software engineering.
 
