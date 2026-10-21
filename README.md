@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Alyssa Mae! 👋
+# Hi there, I'm Alyssa Mae De Guzman! 👋
 
-### 🚀 Aspiring Analyst & Web Developer
+### 🚀 Aspiring Data Analyst & Web Developer
 
 </div>
 
