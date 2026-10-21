@@ -9,9 +9,9 @@
 ---
 
 ### 💻 About Me
-* 🎓 Student at the **Polytechnic University of the Philippines**.
-* 💡 Passionate about building clean, functional applications and continuous learning.
-* 🌱 Currently expanding my skill set in web development and software engineering.
+- 🎓 Student at the **Polytechnic University of the Philippines**.
+- 💡 Passionate about turning data into insights and building clean, functional applications.
+- 🌱 Continuously expanding my skill set in web development, data analytics, and software engineering.
 
 ---
 
@@ -21,9 +21,10 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript, Python, HTML5, CSS3 |
-| **Frameworks & Databases** | MERN Stack, Node.js, Express, MongoDB |
-| **Tools & Version Control** | Git, GitHub, VS Code |
+| **Languages & Querying** | Python, R, JavaScript, SQL, HTML5, CSS3 |
+| **Stacks & Databases** | LAMP Stack, MySQL |
+| **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets, Jupyter Notebook |
+| **Tools & Version Control** | Git, GitHub, Railway, Visual Studio Code |
 
 </div>
 
