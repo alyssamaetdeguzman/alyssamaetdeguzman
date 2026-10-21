@@ -2,7 +2,7 @@
 
 # Hi there, I'm Alyssa Mae! 👋
 
-### 🚀 Aspiring Developer & Tech Enthusiast
+### 🚀 Aspiring Analyst & Web Developer
 
 </div>
 
@@ -30,7 +30,7 @@
 ---
 
 ### 📌 Featured Projects
-*(Check out my 3–5 pinned public repositories right below this profile section to explore my work!)*
+*(Check out my 5 pinned public repositories right below this profile section to explore my work!)*
 
 ---
 
