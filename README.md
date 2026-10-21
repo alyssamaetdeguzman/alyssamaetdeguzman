@@ -31,7 +31,7 @@
 | **Languages & Querying** | Python, R, JavaScript, SQL, HTML5, CSS3 |
 | **Web Stack & Database** | Python (Flask/Django), Apache, MySQL |
 | **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets |
-| **Tools & Version Control** | Git, GitHub, Railway, Visual Studio Code, Jupyter Notebook |
+| **Tools & Version Control** | Git, GitHub, Visual Studio Code, Jupyter Notebook, Railway, Figma |
 
 </div>
 
