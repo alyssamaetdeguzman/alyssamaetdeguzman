@@ -23,8 +23,8 @@
 | :--- | :--- |
 | **Languages & Querying** | Python, R, JavaScript, SQL, HTML5, CSS3 |
 | **Stacks & Databases** | LAMP Stack, MySQL |
-| **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets, Jupyter Notebook |
-| **Tools & Version Control** | Git, GitHub, Railway, Visual Studio Code |
+| **Analytics & Visualization** | Power BI, Tableau, Advanced Excel, Google Sheets |
+| **Tools & Version Control** | Git, GitHub, Railway, Visual Studio Code, Jupyter Notebook |
 
 </div>
 
