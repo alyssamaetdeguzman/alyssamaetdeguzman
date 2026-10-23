@@ -1,6 +1,6 @@
 <div align="center">
 
-## 💡 An Aspiring Data Professional 📈
+##  Hi, I'm an aspiring data professional! 📈
 
 *Transforming raw data into actionable insights and building end-to-end analytical web applications.*
 
