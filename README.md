@@ -10,7 +10,7 @@
 ---
 
 ### 💻 About Me
-- 4th year BSIT student at the **Polytechnic University of the Philippines**.
+- Consistent President's Lister and 4th year BSIT student at the **Polytechnic University of the Philippines**.
 - Passionate about data modeling, exploratory data analysis, and building functional dashboards that bridge raw data and decision-makers.
 - Experienced in designing data-driven web applications (using Python, PHP, and SQL) to track and visualize real-world metrics.
 
