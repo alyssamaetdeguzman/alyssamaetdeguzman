@@ -3,7 +3,7 @@
 # Hi, I'm Alyssa Mae T. De Guzman!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Data+Professional;Transforming+Raw+Data+into+Insights;Building+End-to-End+Analytical+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Aspiring+Data+Professional;Transforming+Raw+Data+into+Insights;Building+End-to-End+Analytical+Web+Apps" alt="Typing SVG" />
 </div>
 
 </div>
