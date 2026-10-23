@@ -40,7 +40,7 @@
 ---
 
 ### 📌 Featured Projects
-*(Check out your pinned public repositories right below this profile section to explore your data dashboards and full-stack apps!)*
+*(Check out my pinned public repositories right below my profile section to explore my data dashboards and full-stack apps!)*
 
 ---
 
