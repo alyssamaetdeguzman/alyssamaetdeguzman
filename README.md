@@ -2,7 +2,7 @@
 
 # Hi there, I'm Alyssa Mae T. De Guzman!
 
-### An Aspiring Data Professional 
+### An Aspiring Data Professional 💡
 *Transforming raw data into actionable insights and building end-to-end analytical web applications.*
 
 </div>
