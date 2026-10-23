@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi, I'm Alyssa Mae T. De Guzman! 👋
@@ -46,4 +46,4 @@
 <div align="center">
   <i>"In God we trust, all others must bring data." – W. Edwards Deming</i>
 </div>
-```
+
