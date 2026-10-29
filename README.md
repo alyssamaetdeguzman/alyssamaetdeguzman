@@ -11,16 +11,16 @@
 ---
 
 ### 💻 About Me
-- 🎓 **Academic Standing:** Consistent President's Lister and 4th-year BSIT student at the **Polytechnic University of the Philippines**.
-- 🔍 **Core Focus:** Passionate about data modeling, exploratory data analysis (EDA), and building functional dashboards that bridge raw data and decision-makers.
-- ⚙️ **Engineering & Dev:** Experienced in designing data-driven web applications using Python, PHP, and SQL to track and visualize real-world metrics.
+-  **Academic Standing:** Consistent President's Lister and 4th-year BSIT student at the **Polytechnic University of the Philippines**.
+-  **Core Focus:** Passionate about data modeling, exploratory data analysis (EDA), and building functional dashboards that bridge raw data and decision-makers.
+-  **Engineering & Dev:** Experienced in designing data-driven web applications using Python, PHP, and SQL to track and visualize real-world metrics.
 
 ---
 
 ### 📊 Professional Certifications
-- 🔗 **[Google Data Analytics Professional Certificate](https://coursera.org/share/ee6b46f3db6cfe94f4c205f4f2d75f3b)**
-- 🔗 **[Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/e4e484c4f5fc14048d65eb3c2500090e)**
-- 🔗 **[Google Business Intelligence Professional Certificate](https://coursera.org/share/1f9c125dc18a61546fb27a6f7e5cf840)**
+-  **[Google Data Analytics Professional Certificate](https://coursera.org/share/ee6b46f3db6cfe94f4c205f4f2d75f3b)**
+-  **[Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/e4e484c4f5fc14048d65eb3c2500090e)**
+-  **[Google Business Intelligence Professional Certificate](https://coursera.org/share/1f9c125dc18a61546fb27a6f7e5cf840)**
 
 ---
 
