@@ -12,7 +12,7 @@
 
 ### 💻 About Me
 -  **Academic Standing:** Consistent President's Lister and 4th-year BSIT student at the **Polytechnic University of the Philippines**.
--  **Core Focus:** Passionate about data modeling, exploratory data analysis (EDA), and building functional dashboards that bridge raw data and decision-makers.
+-  **Core Focus:** Passionate about data modeling, exploratory data analysis, and building functional dashboards that bridge raw data and decision-makers.
 -  **Engineering & Dev:** Experienced in designing data-driven web applications using Python, PHP, and SQL to track and visualize real-world metrics.
 
 ---
