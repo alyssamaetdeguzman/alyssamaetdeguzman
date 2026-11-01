@@ -33,7 +33,7 @@
 | **Data & Querying** | `Python (Pandas, NumPy)`, `R`, `SQL`, `PostgreSQL`, `MySQL` |
 | **BI & Visualization** | `Power BI`, `Tableau`, `Microsoft Excel`, `Google Sheets` |
 | **Data Architecture & Web** | `LAMP Stack`, `Flask`, `Django`, `REST APIs` |
-| **Tools & Workflow** | `Figma`, `Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `XAMPP`, `Railway` |
+| **Tools & Workflow** | `Figma`, `Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `XAMPP` |
 
 </div>
 
