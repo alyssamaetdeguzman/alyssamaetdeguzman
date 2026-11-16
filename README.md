@@ -12,7 +12,7 @@
 - **Academic Background:** 4th-year BS Information Technology student at the **Polytechnic University of the Philippines – Ragay Campus** (Consistent President's Lister).
 - **Data & Analytics Focus:** Developing practical skills in data modeling, exploratory data analysis, and interactive dashboarding to help translate raw datasets into clear decisions.
 - **Full-Stack & LAMP Development:** Building functional, database-backed web applications using the **LAMP stack (Linux, Apache, MySQL, PHP)** and Python to capture, track, and visualize real-world operational metrics.
-- **Community & Continuous Learning:** Strategy & Insights Associate and Data Engineering & Analytics Cadet at **GDG on Campus PUP**, and currently a trainee in the **Matsuo Lab GCI World Program**.
+- **Community & Continuous Learning:** Currently a trainee in the **Matsuo Lab GCI World September 2026 Program**.
 
 ---
 
